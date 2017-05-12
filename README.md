@@ -1,4 +1,3 @@
 # skunk
 トレーニング用
-aiueo
-
+kasaihrk
